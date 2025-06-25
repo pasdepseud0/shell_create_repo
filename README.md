@@ -36,4 +36,4 @@ Utilisez l'URL SSH ou HTTPS de votre dépôt GitHub pour lier votre dépôt loca
 
 Pousser les modifications vers le dépôt distant :
 
-git push -u origin main
+    git push -u origin main
